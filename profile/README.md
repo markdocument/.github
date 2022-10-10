@@ -1,3 +1,4 @@
+# :lock: MarkdownDocs is sunsetting soon.
 # Welcome
 MarkdownDocs is a static site generator written in Ruby for producing Markdown documents as HTML.
 
